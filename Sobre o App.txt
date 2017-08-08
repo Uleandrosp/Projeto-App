@@ -1,0 +1,6 @@
+Projeto Sociedade Participativa
+
+
+Um aplicativo Web para denuncias, reclama¸cões e melhorias, da cidade. Este aplicativo visa dar voz as solicitacões da populacão da cidade, perante a prefeitura, e câmara dos vereadores. Obter respostas e participacão da sociedade no dia-a-dia da cidade.
+Destina-se a quem quer fazer alguma diferenca na sociedade para melhoria da cidade.
+Não terá cunho partidário, de crenca, religião, monetário, gênero, ou raca.
